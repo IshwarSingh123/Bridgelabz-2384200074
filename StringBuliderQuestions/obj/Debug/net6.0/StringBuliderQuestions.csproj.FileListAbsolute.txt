@@ -1,0 +1,14 @@
+D:\MyC#\StringBuliderQuestions\bin\Debug\net6.0\StringBuliderQuestions.exe
+D:\MyC#\StringBuliderQuestions\bin\Debug\net6.0\StringBuliderQuestions.deps.json
+D:\MyC#\StringBuliderQuestions\bin\Debug\net6.0\StringBuliderQuestions.runtimeconfig.json
+D:\MyC#\StringBuliderQuestions\bin\Debug\net6.0\StringBuliderQuestions.dll
+D:\MyC#\StringBuliderQuestions\bin\Debug\net6.0\StringBuliderQuestions.pdb
+D:\MyC#\StringBuliderQuestions\obj\Debug\net6.0\StringBuliderQuestions.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\StringBuliderQuestions\obj\Debug\net6.0\StringBuliderQuestions.AssemblyInfoInputs.cache
+D:\MyC#\StringBuliderQuestions\obj\Debug\net6.0\StringBuliderQuestions.AssemblyInfo.cs
+D:\MyC#\StringBuliderQuestions\obj\Debug\net6.0\StringBuliderQuestions.csproj.CoreCompileInputs.cache
+D:\MyC#\StringBuliderQuestions\obj\Debug\net6.0\StringBuliderQuestions.dll
+D:\MyC#\StringBuliderQuestions\obj\Debug\net6.0\refint\StringBuliderQuestions.dll
+D:\MyC#\StringBuliderQuestions\obj\Debug\net6.0\StringBuliderQuestions.pdb
+D:\MyC#\StringBuliderQuestions\obj\Debug\net6.0\StringBuliderQuestions.genruntimeconfig.cache
+D:\MyC#\StringBuliderQuestions\obj\Debug\net6.0\ref\StringBuliderQuestions.dll
