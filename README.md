@@ -24,9 +24,21 @@
 
 31-jan-2025->I have leanrned about the concept of oops and solve three questions 
 
-04-feb-2025 i have learned about interface
+04-feb-2025 ->i have learned about interface
 
-06-feb-2025 i have association,agreagation,composition and solve assignments
+06-feb-2025 ->i have association,agreagation,composition and solve assignments
 
 
-08-feb-2025 I have learned about constructor chaining and solved problems of opps cocepts and 4 pillars
+08-feb-2025 ->I have learned about constructor chaining and solved problems of opps cocepts and 4 pillars
+
+09-feb-2025-> I have leared the OOps in which i create management systems
+
+10-feb-2025-> I have learned the Linked List in which i learned singular doubly and circular linked list and the problems assignment on it
+
+12-feb-2025-> I have learn stack and Queue using linked list and Problem Addignment
+
+13-feb-2025-> I have learne sorting algorithms 
+
+14-feb-2025 -> I have learne File Handling and Searching(linear serch and Binary Search)
+
+
