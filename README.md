@@ -24,9 +24,9 @@
 
 31-jan-2025->I have leanrned about the concept of oops and solve three questions 
 
-04-jan-2025 i have learned about interface
+04-feb-2025 i have learned about interface
 
-06-jan-2025 i have association,agreagation,composition and solve assignments
+06-feb-2025 i have association,agreagation,composition and solve assignments
 
 
-08-jan-2025 I have learned about constructor chaining and solved problems of opps cocepts and 4 pillars
+08-feb-2025 I have learned about constructor chaining and solved problems of opps cocepts and 4 pillars
