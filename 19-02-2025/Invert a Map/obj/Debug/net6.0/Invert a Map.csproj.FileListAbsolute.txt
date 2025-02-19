@@ -1,0 +1,14 @@
+D:\MyC#\19-02-2025\Invert a Map\bin\Debug\net6.0\Invert a Map.exe
+D:\MyC#\19-02-2025\Invert a Map\bin\Debug\net6.0\Invert a Map.deps.json
+D:\MyC#\19-02-2025\Invert a Map\bin\Debug\net6.0\Invert a Map.runtimeconfig.json
+D:\MyC#\19-02-2025\Invert a Map\bin\Debug\net6.0\Invert a Map.dll
+D:\MyC#\19-02-2025\Invert a Map\bin\Debug\net6.0\Invert a Map.pdb
+D:\MyC#\19-02-2025\Invert a Map\obj\Debug\net6.0\Invert a Map.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\19-02-2025\Invert a Map\obj\Debug\net6.0\Invert a Map.AssemblyInfoInputs.cache
+D:\MyC#\19-02-2025\Invert a Map\obj\Debug\net6.0\Invert a Map.AssemblyInfo.cs
+D:\MyC#\19-02-2025\Invert a Map\obj\Debug\net6.0\Invert a Map.csproj.CoreCompileInputs.cache
+D:\MyC#\19-02-2025\Invert a Map\obj\Debug\net6.0\Invert a Map.dll
+D:\MyC#\19-02-2025\Invert a Map\obj\Debug\net6.0\refint\Invert a Map.dll
+D:\MyC#\19-02-2025\Invert a Map\obj\Debug\net6.0\Invert a Map.pdb
+D:\MyC#\19-02-2025\Invert a Map\obj\Debug\net6.0\Invert a Map.genruntimeconfig.cache
+D:\MyC#\19-02-2025\Invert a Map\obj\Debug\net6.0\ref\Invert a Map.dll

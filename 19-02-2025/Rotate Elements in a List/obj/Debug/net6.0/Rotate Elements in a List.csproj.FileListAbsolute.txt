@@ -1,0 +1,14 @@
+D:\MyC#\19-02-2025\Rotate Elements in a List\bin\Debug\net6.0\Rotate Elements in a List.exe
+D:\MyC#\19-02-2025\Rotate Elements in a List\bin\Debug\net6.0\Rotate Elements in a List.deps.json
+D:\MyC#\19-02-2025\Rotate Elements in a List\bin\Debug\net6.0\Rotate Elements in a List.runtimeconfig.json
+D:\MyC#\19-02-2025\Rotate Elements in a List\bin\Debug\net6.0\Rotate Elements in a List.dll
+D:\MyC#\19-02-2025\Rotate Elements in a List\bin\Debug\net6.0\Rotate Elements in a List.pdb
+D:\MyC#\19-02-2025\Rotate Elements in a List\obj\Debug\net6.0\Rotate Elements in a List.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\19-02-2025\Rotate Elements in a List\obj\Debug\net6.0\Rotate Elements in a List.AssemblyInfoInputs.cache
+D:\MyC#\19-02-2025\Rotate Elements in a List\obj\Debug\net6.0\Rotate Elements in a List.AssemblyInfo.cs
+D:\MyC#\19-02-2025\Rotate Elements in a List\obj\Debug\net6.0\Rotate Elements in a List.csproj.CoreCompileInputs.cache
+D:\MyC#\19-02-2025\Rotate Elements in a List\obj\Debug\net6.0\Rotate Elements in a List.dll
+D:\MyC#\19-02-2025\Rotate Elements in a List\obj\Debug\net6.0\refint\Rotate Elements in a List.dll
+D:\MyC#\19-02-2025\Rotate Elements in a List\obj\Debug\net6.0\Rotate Elements in a List.pdb
+D:\MyC#\19-02-2025\Rotate Elements in a List\obj\Debug\net6.0\Rotate Elements in a List.genruntimeconfig.cache
+D:\MyC#\19-02-2025\Rotate Elements in a List\obj\Debug\net6.0\ref\Rotate Elements in a List.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Convert a Set to a Sorted List/1.0.0": {
+        "runtime": {
+          "Convert a Set to a Sorted List.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Convert a Set to a Sorted List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

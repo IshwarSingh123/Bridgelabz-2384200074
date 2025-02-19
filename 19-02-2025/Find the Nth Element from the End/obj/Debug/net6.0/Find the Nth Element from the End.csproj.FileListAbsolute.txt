@@ -1,0 +1,14 @@
+D:\MyC#\19-02-2025\Find the Nth Element from the End\bin\Debug\net6.0\Find the Nth Element from the End.exe
+D:\MyC#\19-02-2025\Find the Nth Element from the End\bin\Debug\net6.0\Find the Nth Element from the End.deps.json
+D:\MyC#\19-02-2025\Find the Nth Element from the End\bin\Debug\net6.0\Find the Nth Element from the End.runtimeconfig.json
+D:\MyC#\19-02-2025\Find the Nth Element from the End\bin\Debug\net6.0\Find the Nth Element from the End.dll
+D:\MyC#\19-02-2025\Find the Nth Element from the End\bin\Debug\net6.0\Find the Nth Element from the End.pdb
+D:\MyC#\19-02-2025\Find the Nth Element from the End\obj\Debug\net6.0\Find the Nth Element from the End.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\19-02-2025\Find the Nth Element from the End\obj\Debug\net6.0\Find the Nth Element from the End.AssemblyInfoInputs.cache
+D:\MyC#\19-02-2025\Find the Nth Element from the End\obj\Debug\net6.0\Find the Nth Element from the End.AssemblyInfo.cs
+D:\MyC#\19-02-2025\Find the Nth Element from the End\obj\Debug\net6.0\Find the Nth Element from the End.csproj.CoreCompileInputs.cache
+D:\MyC#\19-02-2025\Find the Nth Element from the End\obj\Debug\net6.0\Find the Nth Element from the End.dll
+D:\MyC#\19-02-2025\Find the Nth Element from the End\obj\Debug\net6.0\refint\Find the Nth Element from the End.dll
+D:\MyC#\19-02-2025\Find the Nth Element from the End\obj\Debug\net6.0\Find the Nth Element from the End.pdb
+D:\MyC#\19-02-2025\Find the Nth Element from the End\obj\Debug\net6.0\Find the Nth Element from the End.genruntimeconfig.cache
+D:\MyC#\19-02-2025\Find the Nth Element from the End\obj\Debug\net6.0\ref\Find the Nth Element from the End.dll

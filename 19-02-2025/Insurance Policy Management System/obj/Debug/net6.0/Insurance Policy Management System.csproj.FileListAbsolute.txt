@@ -1,0 +1,14 @@
+D:\MyC#\19-02-2025\Insurance Policy Management System\bin\Debug\net6.0\Insurance Policy Management System.exe
+D:\MyC#\19-02-2025\Insurance Policy Management System\bin\Debug\net6.0\Insurance Policy Management System.deps.json
+D:\MyC#\19-02-2025\Insurance Policy Management System\bin\Debug\net6.0\Insurance Policy Management System.runtimeconfig.json
+D:\MyC#\19-02-2025\Insurance Policy Management System\bin\Debug\net6.0\Insurance Policy Management System.dll
+D:\MyC#\19-02-2025\Insurance Policy Management System\bin\Debug\net6.0\Insurance Policy Management System.pdb
+D:\MyC#\19-02-2025\Insurance Policy Management System\obj\Debug\net6.0\Insurance Policy Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\19-02-2025\Insurance Policy Management System\obj\Debug\net6.0\Insurance Policy Management System.AssemblyInfoInputs.cache
+D:\MyC#\19-02-2025\Insurance Policy Management System\obj\Debug\net6.0\Insurance Policy Management System.AssemblyInfo.cs
+D:\MyC#\19-02-2025\Insurance Policy Management System\obj\Debug\net6.0\Insurance Policy Management System.csproj.CoreCompileInputs.cache
+D:\MyC#\19-02-2025\Insurance Policy Management System\obj\Debug\net6.0\Insurance Policy Management System.dll
+D:\MyC#\19-02-2025\Insurance Policy Management System\obj\Debug\net6.0\refint\Insurance Policy Management System.dll
+D:\MyC#\19-02-2025\Insurance Policy Management System\obj\Debug\net6.0\Insurance Policy Management System.pdb
+D:\MyC#\19-02-2025\Insurance Policy Management System\obj\Debug\net6.0\Insurance Policy Management System.genruntimeconfig.cache
+D:\MyC#\19-02-2025\Insurance Policy Management System\obj\Debug\net6.0\ref\Insurance Policy Management System.dll

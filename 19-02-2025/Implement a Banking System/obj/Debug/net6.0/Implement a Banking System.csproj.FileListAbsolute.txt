@@ -1,0 +1,14 @@
+D:\MyC#\19-02-2025\Implement a Banking System\bin\Debug\net6.0\Implement a Banking System.exe
+D:\MyC#\19-02-2025\Implement a Banking System\bin\Debug\net6.0\Implement a Banking System.deps.json
+D:\MyC#\19-02-2025\Implement a Banking System\bin\Debug\net6.0\Implement a Banking System.runtimeconfig.json
+D:\MyC#\19-02-2025\Implement a Banking System\bin\Debug\net6.0\Implement a Banking System.dll
+D:\MyC#\19-02-2025\Implement a Banking System\bin\Debug\net6.0\Implement a Banking System.pdb
+D:\MyC#\19-02-2025\Implement a Banking System\obj\Debug\net6.0\Implement a Banking System.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\19-02-2025\Implement a Banking System\obj\Debug\net6.0\Implement a Banking System.AssemblyInfoInputs.cache
+D:\MyC#\19-02-2025\Implement a Banking System\obj\Debug\net6.0\Implement a Banking System.AssemblyInfo.cs
+D:\MyC#\19-02-2025\Implement a Banking System\obj\Debug\net6.0\Implement a Banking System.csproj.CoreCompileInputs.cache
+D:\MyC#\19-02-2025\Implement a Banking System\obj\Debug\net6.0\Implement a Banking System.dll
+D:\MyC#\19-02-2025\Implement a Banking System\obj\Debug\net6.0\refint\Implement a Banking System.dll
+D:\MyC#\19-02-2025\Implement a Banking System\obj\Debug\net6.0\Implement a Banking System.pdb
+D:\MyC#\19-02-2025\Implement a Banking System\obj\Debug\net6.0\Implement a Banking System.genruntimeconfig.cache
+D:\MyC#\19-02-2025\Implement a Banking System\obj\Debug\net6.0\ref\Implement a Banking System.dll

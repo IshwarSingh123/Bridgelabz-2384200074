@@ -1,0 +1,14 @@
+D:\MyC#\19-02-2025\Word Count from a file\bin\Debug\net6.0\Word Count from a file.exe
+D:\MyC#\19-02-2025\Word Count from a file\bin\Debug\net6.0\Word Count from a file.deps.json
+D:\MyC#\19-02-2025\Word Count from a file\bin\Debug\net6.0\Word Count from a file.runtimeconfig.json
+D:\MyC#\19-02-2025\Word Count from a file\bin\Debug\net6.0\Word Count from a file.dll
+D:\MyC#\19-02-2025\Word Count from a file\bin\Debug\net6.0\Word Count from a file.pdb
+D:\MyC#\19-02-2025\Word Count from a file\obj\Debug\net6.0\Word Count from a file.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\19-02-2025\Word Count from a file\obj\Debug\net6.0\Word Count from a file.AssemblyInfoInputs.cache
+D:\MyC#\19-02-2025\Word Count from a file\obj\Debug\net6.0\Word Count from a file.AssemblyInfo.cs
+D:\MyC#\19-02-2025\Word Count from a file\obj\Debug\net6.0\Word Count from a file.csproj.CoreCompileInputs.cache
+D:\MyC#\19-02-2025\Word Count from a file\obj\Debug\net6.0\Word Count from a file.dll
+D:\MyC#\19-02-2025\Word Count from a file\obj\Debug\net6.0\refint\Word Count from a file.dll
+D:\MyC#\19-02-2025\Word Count from a file\obj\Debug\net6.0\Word Count from a file.pdb
+D:\MyC#\19-02-2025\Word Count from a file\obj\Debug\net6.0\Word Count from a file.genruntimeconfig.cache
+D:\MyC#\19-02-2025\Word Count from a file\obj\Debug\net6.0\ref\Word Count from a file.dll

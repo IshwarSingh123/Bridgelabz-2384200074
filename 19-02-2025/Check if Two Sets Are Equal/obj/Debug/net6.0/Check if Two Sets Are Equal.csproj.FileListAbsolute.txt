@@ -1,0 +1,14 @@
+D:\MyC#\19-02-2025\Check if Two Sets Are Equal\bin\Debug\net6.0\Check if Two Sets Are Equal.exe
+D:\MyC#\19-02-2025\Check if Two Sets Are Equal\bin\Debug\net6.0\Check if Two Sets Are Equal.deps.json
+D:\MyC#\19-02-2025\Check if Two Sets Are Equal\bin\Debug\net6.0\Check if Two Sets Are Equal.runtimeconfig.json
+D:\MyC#\19-02-2025\Check if Two Sets Are Equal\bin\Debug\net6.0\Check if Two Sets Are Equal.dll
+D:\MyC#\19-02-2025\Check if Two Sets Are Equal\bin\Debug\net6.0\Check if Two Sets Are Equal.pdb
+D:\MyC#\19-02-2025\Check if Two Sets Are Equal\obj\Debug\net6.0\Check if Two Sets Are Equal.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\19-02-2025\Check if Two Sets Are Equal\obj\Debug\net6.0\Check if Two Sets Are Equal.AssemblyInfoInputs.cache
+D:\MyC#\19-02-2025\Check if Two Sets Are Equal\obj\Debug\net6.0\Check if Two Sets Are Equal.AssemblyInfo.cs
+D:\MyC#\19-02-2025\Check if Two Sets Are Equal\obj\Debug\net6.0\Check if Two Sets Are Equal.csproj.CoreCompileInputs.cache
+D:\MyC#\19-02-2025\Check if Two Sets Are Equal\obj\Debug\net6.0\Check if Two Sets Are Equal.dll
+D:\MyC#\19-02-2025\Check if Two Sets Are Equal\obj\Debug\net6.0\refint\Check if Two Sets Are Equal.dll
+D:\MyC#\19-02-2025\Check if Two Sets Are Equal\obj\Debug\net6.0\Check if Two Sets Are Equal.pdb
+D:\MyC#\19-02-2025\Check if Two Sets Are Equal\obj\Debug\net6.0\Check if Two Sets Are Equal.genruntimeconfig.cache
+D:\MyC#\19-02-2025\Check if Two Sets Are Equal\obj\Debug\net6.0\ref\Check if Two Sets Are Equal.dll

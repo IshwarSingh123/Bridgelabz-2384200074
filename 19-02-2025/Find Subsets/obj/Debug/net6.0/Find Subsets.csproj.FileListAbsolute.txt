@@ -1,0 +1,14 @@
+D:\MyC#\19-02-2025\Find Subsets\bin\Debug\net6.0\Find Subsets.exe
+D:\MyC#\19-02-2025\Find Subsets\bin\Debug\net6.0\Find Subsets.deps.json
+D:\MyC#\19-02-2025\Find Subsets\bin\Debug\net6.0\Find Subsets.runtimeconfig.json
+D:\MyC#\19-02-2025\Find Subsets\bin\Debug\net6.0\Find Subsets.dll
+D:\MyC#\19-02-2025\Find Subsets\bin\Debug\net6.0\Find Subsets.pdb
+D:\MyC#\19-02-2025\Find Subsets\obj\Debug\net6.0\Find Subsets.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\19-02-2025\Find Subsets\obj\Debug\net6.0\Find Subsets.AssemblyInfoInputs.cache
+D:\MyC#\19-02-2025\Find Subsets\obj\Debug\net6.0\Find Subsets.AssemblyInfo.cs
+D:\MyC#\19-02-2025\Find Subsets\obj\Debug\net6.0\Find Subsets.csproj.CoreCompileInputs.cache
+D:\MyC#\19-02-2025\Find Subsets\obj\Debug\net6.0\Find Subsets.dll
+D:\MyC#\19-02-2025\Find Subsets\obj\Debug\net6.0\refint\Find Subsets.dll
+D:\MyC#\19-02-2025\Find Subsets\obj\Debug\net6.0\Find Subsets.pdb
+D:\MyC#\19-02-2025\Find Subsets\obj\Debug\net6.0\Find Subsets.genruntimeconfig.cache
+D:\MyC#\19-02-2025\Find Subsets\obj\Debug\net6.0\ref\Find Subsets.dll

@@ -1,0 +1,14 @@
+D:\MyC#\19-02-2025\Convert a Set to a Sorted List\bin\Debug\net6.0\Convert a Set to a Sorted List.exe
+D:\MyC#\19-02-2025\Convert a Set to a Sorted List\bin\Debug\net6.0\Convert a Set to a Sorted List.deps.json
+D:\MyC#\19-02-2025\Convert a Set to a Sorted List\bin\Debug\net6.0\Convert a Set to a Sorted List.runtimeconfig.json
+D:\MyC#\19-02-2025\Convert a Set to a Sorted List\bin\Debug\net6.0\Convert a Set to a Sorted List.dll
+D:\MyC#\19-02-2025\Convert a Set to a Sorted List\bin\Debug\net6.0\Convert a Set to a Sorted List.pdb
+D:\MyC#\19-02-2025\Convert a Set to a Sorted List\obj\Debug\net6.0\Convert a Set to a Sorted List.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\19-02-2025\Convert a Set to a Sorted List\obj\Debug\net6.0\Convert a Set to a Sorted List.AssemblyInfoInputs.cache
+D:\MyC#\19-02-2025\Convert a Set to a Sorted List\obj\Debug\net6.0\Convert a Set to a Sorted List.AssemblyInfo.cs
+D:\MyC#\19-02-2025\Convert a Set to a Sorted List\obj\Debug\net6.0\Convert a Set to a Sorted List.csproj.CoreCompileInputs.cache
+D:\MyC#\19-02-2025\Convert a Set to a Sorted List\obj\Debug\net6.0\Convert a Set to a Sorted List.dll
+D:\MyC#\19-02-2025\Convert a Set to a Sorted List\obj\Debug\net6.0\refint\Convert a Set to a Sorted List.dll
+D:\MyC#\19-02-2025\Convert a Set to a Sorted List\obj\Debug\net6.0\Convert a Set to a Sorted List.pdb
+D:\MyC#\19-02-2025\Convert a Set to a Sorted List\obj\Debug\net6.0\Convert a Set to a Sorted List.genruntimeconfig.cache
+D:\MyC#\19-02-2025\Convert a Set to a Sorted List\obj\Debug\net6.0\ref\Convert a Set to a Sorted List.dll

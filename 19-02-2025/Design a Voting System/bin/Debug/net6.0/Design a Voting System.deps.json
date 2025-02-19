@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Design a Voting System/1.0.0": {
+        "runtime": {
+          "Design a Voting System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Design a Voting System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

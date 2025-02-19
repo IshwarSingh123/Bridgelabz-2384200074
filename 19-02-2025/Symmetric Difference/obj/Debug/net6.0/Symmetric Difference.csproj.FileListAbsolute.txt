@@ -1,0 +1,14 @@
+D:\MyC#\19-02-2025\Symmetric Difference\bin\Debug\net6.0\Symmetric Difference.exe
+D:\MyC#\19-02-2025\Symmetric Difference\bin\Debug\net6.0\Symmetric Difference.deps.json
+D:\MyC#\19-02-2025\Symmetric Difference\bin\Debug\net6.0\Symmetric Difference.runtimeconfig.json
+D:\MyC#\19-02-2025\Symmetric Difference\bin\Debug\net6.0\Symmetric Difference.dll
+D:\MyC#\19-02-2025\Symmetric Difference\bin\Debug\net6.0\Symmetric Difference.pdb
+D:\MyC#\19-02-2025\Symmetric Difference\obj\Debug\net6.0\Symmetric Difference.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\19-02-2025\Symmetric Difference\obj\Debug\net6.0\Symmetric Difference.AssemblyInfoInputs.cache
+D:\MyC#\19-02-2025\Symmetric Difference\obj\Debug\net6.0\Symmetric Difference.AssemblyInfo.cs
+D:\MyC#\19-02-2025\Symmetric Difference\obj\Debug\net6.0\Symmetric Difference.csproj.CoreCompileInputs.cache
+D:\MyC#\19-02-2025\Symmetric Difference\obj\Debug\net6.0\Symmetric Difference.dll
+D:\MyC#\19-02-2025\Symmetric Difference\obj\Debug\net6.0\refint\Symmetric Difference.dll
+D:\MyC#\19-02-2025\Symmetric Difference\obj\Debug\net6.0\Symmetric Difference.pdb
+D:\MyC#\19-02-2025\Symmetric Difference\obj\Debug\net6.0\Symmetric Difference.genruntimeconfig.cache
+D:\MyC#\19-02-2025\Symmetric Difference\obj\Debug\net6.0\ref\Symmetric Difference.dll

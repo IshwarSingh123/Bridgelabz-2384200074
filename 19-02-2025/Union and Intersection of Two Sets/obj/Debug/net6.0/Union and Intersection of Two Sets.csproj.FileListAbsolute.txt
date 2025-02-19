@@ -1,0 +1,14 @@
+D:\MyC#\19-02-2025\Union and Intersection of Two Sets\bin\Debug\net6.0\Union and Intersection of Two Sets.exe
+D:\MyC#\19-02-2025\Union and Intersection of Two Sets\bin\Debug\net6.0\Union and Intersection of Two Sets.deps.json
+D:\MyC#\19-02-2025\Union and Intersection of Two Sets\bin\Debug\net6.0\Union and Intersection of Two Sets.runtimeconfig.json
+D:\MyC#\19-02-2025\Union and Intersection of Two Sets\bin\Debug\net6.0\Union and Intersection of Two Sets.dll
+D:\MyC#\19-02-2025\Union and Intersection of Two Sets\bin\Debug\net6.0\Union and Intersection of Two Sets.pdb
+D:\MyC#\19-02-2025\Union and Intersection of Two Sets\obj\Debug\net6.0\Union and Intersection of Two Sets.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\19-02-2025\Union and Intersection of Two Sets\obj\Debug\net6.0\Union and Intersection of Two Sets.AssemblyInfoInputs.cache
+D:\MyC#\19-02-2025\Union and Intersection of Two Sets\obj\Debug\net6.0\Union and Intersection of Two Sets.AssemblyInfo.cs
+D:\MyC#\19-02-2025\Union and Intersection of Two Sets\obj\Debug\net6.0\Union and Intersection of Two Sets.csproj.CoreCompileInputs.cache
+D:\MyC#\19-02-2025\Union and Intersection of Two Sets\obj\Debug\net6.0\Union and Intersection of Two Sets.dll
+D:\MyC#\19-02-2025\Union and Intersection of Two Sets\obj\Debug\net6.0\refint\Union and Intersection of Two Sets.dll
+D:\MyC#\19-02-2025\Union and Intersection of Two Sets\obj\Debug\net6.0\Union and Intersection of Two Sets.pdb
+D:\MyC#\19-02-2025\Union and Intersection of Two Sets\obj\Debug\net6.0\Union and Intersection of Two Sets.genruntimeconfig.cache
+D:\MyC#\19-02-2025\Union and Intersection of Two Sets\obj\Debug\net6.0\ref\Union and Intersection of Two Sets.dll

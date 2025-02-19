@@ -1,0 +1,14 @@
+D:\MyC#\19-02-2025\Implement a Shopping Cart\bin\Debug\net6.0\Implement a Shopping Cart.exe
+D:\MyC#\19-02-2025\Implement a Shopping Cart\bin\Debug\net6.0\Implement a Shopping Cart.deps.json
+D:\MyC#\19-02-2025\Implement a Shopping Cart\bin\Debug\net6.0\Implement a Shopping Cart.runtimeconfig.json
+D:\MyC#\19-02-2025\Implement a Shopping Cart\bin\Debug\net6.0\Implement a Shopping Cart.dll
+D:\MyC#\19-02-2025\Implement a Shopping Cart\bin\Debug\net6.0\Implement a Shopping Cart.pdb
+D:\MyC#\19-02-2025\Implement a Shopping Cart\obj\Debug\net6.0\Implement a Shopping Cart.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\19-02-2025\Implement a Shopping Cart\obj\Debug\net6.0\Implement a Shopping Cart.AssemblyInfoInputs.cache
+D:\MyC#\19-02-2025\Implement a Shopping Cart\obj\Debug\net6.0\Implement a Shopping Cart.AssemblyInfo.cs
+D:\MyC#\19-02-2025\Implement a Shopping Cart\obj\Debug\net6.0\Implement a Shopping Cart.csproj.CoreCompileInputs.cache
+D:\MyC#\19-02-2025\Implement a Shopping Cart\obj\Debug\net6.0\Implement a Shopping Cart.dll
+D:\MyC#\19-02-2025\Implement a Shopping Cart\obj\Debug\net6.0\refint\Implement a Shopping Cart.dll
+D:\MyC#\19-02-2025\Implement a Shopping Cart\obj\Debug\net6.0\Implement a Shopping Cart.pdb
+D:\MyC#\19-02-2025\Implement a Shopping Cart\obj\Debug\net6.0\Implement a Shopping Cart.genruntimeconfig.cache
+D:\MyC#\19-02-2025\Implement a Shopping Cart\obj\Debug\net6.0\ref\Implement a Shopping Cart.dll

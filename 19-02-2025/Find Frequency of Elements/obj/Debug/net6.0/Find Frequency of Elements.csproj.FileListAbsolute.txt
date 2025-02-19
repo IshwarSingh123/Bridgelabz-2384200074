@@ -1,0 +1,14 @@
+D:\MyC#\19-02-2025\Find Frequency of Elements\bin\Debug\net6.0\Find Frequency of Elements.exe
+D:\MyC#\19-02-2025\Find Frequency of Elements\bin\Debug\net6.0\Find Frequency of Elements.deps.json
+D:\MyC#\19-02-2025\Find Frequency of Elements\bin\Debug\net6.0\Find Frequency of Elements.runtimeconfig.json
+D:\MyC#\19-02-2025\Find Frequency of Elements\bin\Debug\net6.0\Find Frequency of Elements.dll
+D:\MyC#\19-02-2025\Find Frequency of Elements\bin\Debug\net6.0\Find Frequency of Elements.pdb
+D:\MyC#\19-02-2025\Find Frequency of Elements\obj\Debug\net6.0\Find Frequency of Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\19-02-2025\Find Frequency of Elements\obj\Debug\net6.0\Find Frequency of Elements.AssemblyInfoInputs.cache
+D:\MyC#\19-02-2025\Find Frequency of Elements\obj\Debug\net6.0\Find Frequency of Elements.AssemblyInfo.cs
+D:\MyC#\19-02-2025\Find Frequency of Elements\obj\Debug\net6.0\Find Frequency of Elements.csproj.CoreCompileInputs.cache
+D:\MyC#\19-02-2025\Find Frequency of Elements\obj\Debug\net6.0\Find Frequency of Elements.dll
+D:\MyC#\19-02-2025\Find Frequency of Elements\obj\Debug\net6.0\refint\Find Frequency of Elements.dll
+D:\MyC#\19-02-2025\Find Frequency of Elements\obj\Debug\net6.0\Find Frequency of Elements.pdb
+D:\MyC#\19-02-2025\Find Frequency of Elements\obj\Debug\net6.0\Find Frequency of Elements.genruntimeconfig.cache
+D:\MyC#\19-02-2025\Find Frequency of Elements\obj\Debug\net6.0\ref\Find Frequency of Elements.dll

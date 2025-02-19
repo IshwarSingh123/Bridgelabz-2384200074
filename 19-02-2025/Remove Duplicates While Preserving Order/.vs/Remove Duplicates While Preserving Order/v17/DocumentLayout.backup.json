@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyC#\\19-02-2025\\Remove Duplicates While Preserving Order\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D07D7DF1-0EDE-438C-A638-5C578D0593F6}|Remove Duplicates While Preserving Order.csproj|d:\\myc#\\19-02-2025\\remove duplicates while preserving order\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07D7DF1-0EDE-438C-A638-5C578D0593F6}|Remove Duplicates While Preserving Order.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07D7DF1-0EDE-438C-A638-5C578D0593F6}|Remove Duplicates While Preserving Order.csproj|d:\\myc#\\19-02-2025\\remove duplicates while preserving order\\duplicateremove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07D7DF1-0EDE-438C-A638-5C578D0593F6}|Remove Duplicates While Preserving Order.csproj|solutionrelative:duplicateremove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DuplicateRemove.cs",
+              "DocumentMoniker": "D:\\MyC#\\19-02-2025\\Remove Duplicates While Preserving Order\\DuplicateRemove.cs",
+              "RelativeDocumentMoniker": "DuplicateRemove.cs",
+              "ToolTip": "D:\\MyC#\\19-02-2025\\Remove Duplicates While Preserving Order\\DuplicateRemove.cs",
+              "RelativeToolTip": "DuplicateRemove.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:26:56.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyC#\\19-02-2025\\Remove Duplicates While Preserving Order\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MyC#\\19-02-2025\\Remove Duplicates While Preserving Order\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:19:17.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\MyC#\19-02-2025\Generate Binary Numbers Using a Queue\bin\Debug\net6.0\Generate Binary Numbers Using a Queue.exe
+D:\MyC#\19-02-2025\Generate Binary Numbers Using a Queue\bin\Debug\net6.0\Generate Binary Numbers Using a Queue.deps.json
+D:\MyC#\19-02-2025\Generate Binary Numbers Using a Queue\bin\Debug\net6.0\Generate Binary Numbers Using a Queue.runtimeconfig.json
+D:\MyC#\19-02-2025\Generate Binary Numbers Using a Queue\bin\Debug\net6.0\Generate Binary Numbers Using a Queue.dll
+D:\MyC#\19-02-2025\Generate Binary Numbers Using a Queue\bin\Debug\net6.0\Generate Binary Numbers Using a Queue.pdb
+D:\MyC#\19-02-2025\Generate Binary Numbers Using a Queue\obj\Debug\net6.0\Generate Binary Numbers Using a Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\19-02-2025\Generate Binary Numbers Using a Queue\obj\Debug\net6.0\Generate Binary Numbers Using a Queue.AssemblyInfoInputs.cache
+D:\MyC#\19-02-2025\Generate Binary Numbers Using a Queue\obj\Debug\net6.0\Generate Binary Numbers Using a Queue.AssemblyInfo.cs
+D:\MyC#\19-02-2025\Generate Binary Numbers Using a Queue\obj\Debug\net6.0\Generate Binary Numbers Using a Queue.csproj.CoreCompileInputs.cache
+D:\MyC#\19-02-2025\Generate Binary Numbers Using a Queue\obj\Debug\net6.0\Generate Binary Numbers Using a Queue.dll
+D:\MyC#\19-02-2025\Generate Binary Numbers Using a Queue\obj\Debug\net6.0\refint\Generate Binary Numbers Using a Queue.dll
+D:\MyC#\19-02-2025\Generate Binary Numbers Using a Queue\obj\Debug\net6.0\Generate Binary Numbers Using a Queue.pdb
+D:\MyC#\19-02-2025\Generate Binary Numbers Using a Queue\obj\Debug\net6.0\Generate Binary Numbers Using a Queue.genruntimeconfig.cache
+D:\MyC#\19-02-2025\Generate Binary Numbers Using a Queue\obj\Debug\net6.0\ref\Generate Binary Numbers Using a Queue.dll
