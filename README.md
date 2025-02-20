@@ -46,3 +46,5 @@
 18-feb-2025 -> I have learned about generics class ,methods and variables and do some assignment questions
 
 19-feb-2025 -> I have learned about collection frameworks and solve assignment problems
+
+20-feb-2025 -> I have learend about File Read and write Operations and submit assignments on these operations
