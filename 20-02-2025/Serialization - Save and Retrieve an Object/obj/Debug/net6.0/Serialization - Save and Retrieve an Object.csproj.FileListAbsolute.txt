@@ -1,0 +1,14 @@
+D:\MyC#\20-02-2025\Serialization - Save and Retrieve an Object\bin\Debug\net6.0\Serialization - Save and Retrieve an Object.exe
+D:\MyC#\20-02-2025\Serialization - Save and Retrieve an Object\bin\Debug\net6.0\Serialization - Save and Retrieve an Object.deps.json
+D:\MyC#\20-02-2025\Serialization - Save and Retrieve an Object\bin\Debug\net6.0\Serialization - Save and Retrieve an Object.runtimeconfig.json
+D:\MyC#\20-02-2025\Serialization - Save and Retrieve an Object\bin\Debug\net6.0\Serialization - Save and Retrieve an Object.dll
+D:\MyC#\20-02-2025\Serialization - Save and Retrieve an Object\bin\Debug\net6.0\Serialization - Save and Retrieve an Object.pdb
+D:\MyC#\20-02-2025\Serialization - Save and Retrieve an Object\obj\Debug\net6.0\Serialization - Save and Retrieve an Object.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\20-02-2025\Serialization - Save and Retrieve an Object\obj\Debug\net6.0\Serialization - Save and Retrieve an Object.AssemblyInfoInputs.cache
+D:\MyC#\20-02-2025\Serialization - Save and Retrieve an Object\obj\Debug\net6.0\Serialization - Save and Retrieve an Object.AssemblyInfo.cs
+D:\MyC#\20-02-2025\Serialization - Save and Retrieve an Object\obj\Debug\net6.0\Serialization - Save and Retrieve an Object.csproj.CoreCompileInputs.cache
+D:\MyC#\20-02-2025\Serialization - Save and Retrieve an Object\obj\Debug\net6.0\Serialization - Save and Retrieve an Object.dll
+D:\MyC#\20-02-2025\Serialization - Save and Retrieve an Object\obj\Debug\net6.0\refint\Serialization - Save and Retrieve an Object.dll
+D:\MyC#\20-02-2025\Serialization - Save and Retrieve an Object\obj\Debug\net6.0\Serialization - Save and Retrieve an Object.pdb
+D:\MyC#\20-02-2025\Serialization - Save and Retrieve an Object\obj\Debug\net6.0\Serialization - Save and Retrieve an Object.genruntimeconfig.cache
+D:\MyC#\20-02-2025\Serialization - Save and Retrieve an Object\obj\Debug\net6.0\ref\Serialization - Save and Retrieve an Object.dll

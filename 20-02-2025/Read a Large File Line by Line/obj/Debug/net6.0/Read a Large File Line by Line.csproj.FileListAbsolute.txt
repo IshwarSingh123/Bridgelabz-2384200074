@@ -1,0 +1,14 @@
+D:\MyC#\20-02-2025\Read a Large File Line by Line\bin\Debug\net6.0\Read a Large File Line by Line.exe
+D:\MyC#\20-02-2025\Read a Large File Line by Line\bin\Debug\net6.0\Read a Large File Line by Line.deps.json
+D:\MyC#\20-02-2025\Read a Large File Line by Line\bin\Debug\net6.0\Read a Large File Line by Line.runtimeconfig.json
+D:\MyC#\20-02-2025\Read a Large File Line by Line\bin\Debug\net6.0\Read a Large File Line by Line.dll
+D:\MyC#\20-02-2025\Read a Large File Line by Line\bin\Debug\net6.0\Read a Large File Line by Line.pdb
+D:\MyC#\20-02-2025\Read a Large File Line by Line\obj\Debug\net6.0\Read a Large File Line by Line.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\20-02-2025\Read a Large File Line by Line\obj\Debug\net6.0\Read a Large File Line by Line.AssemblyInfoInputs.cache
+D:\MyC#\20-02-2025\Read a Large File Line by Line\obj\Debug\net6.0\Read a Large File Line by Line.AssemblyInfo.cs
+D:\MyC#\20-02-2025\Read a Large File Line by Line\obj\Debug\net6.0\Read a Large File Line by Line.csproj.CoreCompileInputs.cache
+D:\MyC#\20-02-2025\Read a Large File Line by Line\obj\Debug\net6.0\Read a Large File Line by Line.dll
+D:\MyC#\20-02-2025\Read a Large File Line by Line\obj\Debug\net6.0\refint\Read a Large File Line by Line.dll
+D:\MyC#\20-02-2025\Read a Large File Line by Line\obj\Debug\net6.0\Read a Large File Line by Line.pdb
+D:\MyC#\20-02-2025\Read a Large File Line by Line\obj\Debug\net6.0\Read a Large File Line by Line.genruntimeconfig.cache
+D:\MyC#\20-02-2025\Read a Large File Line by Line\obj\Debug\net6.0\ref\Read a Large File Line by Line.dll

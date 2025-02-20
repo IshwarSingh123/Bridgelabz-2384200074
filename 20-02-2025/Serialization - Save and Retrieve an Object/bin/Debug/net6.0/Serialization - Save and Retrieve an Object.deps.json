@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Serialization - Save and Retrieve an Object/1.0.0": {
+        "runtime": {
+          "Serialization - Save and Retrieve an Object.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Serialization - Save and Retrieve an Object/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

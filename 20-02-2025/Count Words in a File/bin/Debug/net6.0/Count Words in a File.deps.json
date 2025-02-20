@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Count Words in a File/1.0.0": {
+        "runtime": {
+          "Count Words in a File.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Count Words in a File/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
