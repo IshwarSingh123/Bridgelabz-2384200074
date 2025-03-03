@@ -1,0 +1,24 @@
+2025-03-03 22:17:00.8846 | INFO | Now listening on: https://localhost:7132 
+2025-03-03 22:17:00.9629 | INFO | Now listening on: http://localhost:5127 
+2025-03-03 22:17:01.0048 | INFO | Application started. Press Ctrl+C to shut down. 
+2025-03-03 22:17:01.0048 | INFO | Hosting environment: Development 
+2025-03-03 22:17:01.0048 | INFO | Content root path: D:\MyC#\MyApp\HelloApp\ 
+2025-03-03 22:17:01.8484 | INFO | Request starting HTTP/2 GET https://localhost:7132/HelloApp - - 
+2025-03-03 22:17:02.0235 | INFO | Executing endpoint 'HelloApp.Controllers.HelloAppController.Get (HelloApp)' 
+2025-03-03 22:17:02.0235 | INFO | Route matched with {action = "Get", controller = "HelloApp"}. Executing controller action with signature System.String Get() on controller HelloApp.Controllers.HelloAppController (HelloApp). 
+2025-03-03 22:17:02.9492 | INFO | Executing ObjectResult, writing value of type 'System.String'. 
+2025-03-03 22:17:02.9644 | INFO | Executed action HelloApp.Controllers.HelloAppController.Get (HelloApp) in 929.3312ms 
+2025-03-03 22:17:02.9644 | INFO | Executed endpoint 'HelloApp.Controllers.HelloAppController.Get (HelloApp)' 
+2025-03-03 22:17:02.9644 | INFO | Request finished HTTP/2 GET https://localhost:7132/HelloApp - - - 200 - text/plain;+charset=utf-8 1126.2046ms 
+2025-03-03 22:17:17.8360 | INFO | Request starting HTTP/1.1 POST https://localhost:7132/HelloApp application/json 84 
+2025-03-03 22:17:17.8360 | INFO | Executing endpoint 'HelloApp.Controllers.HelloAppController.Login (HelloApp)' 
+2025-03-03 22:17:17.8755 | INFO | Route matched with {action = "Login", controller = "HelloApp"}. Executing controller action with signature ModelLayer.DTO.ResponseModel`1[System.String] Login(ModelLayer.DTO.LoginDTO) on controller HelloApp.Controllers.HelloAppController (HelloApp). 
+2025-03-03 22:17:19.2647 | INFO | Entity Framework Core 6.0.36 initialized 'HelloAppContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.36' with options: None 
+2025-03-03 22:17:22.5001 | INFO | Executed DbCommand (183ms) [Parameters=[@__loginDTO_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[UserId], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password]
+FROM [Users] AS [u]
+WHERE [u].[Email] = @__loginDTO_Email_0 
+2025-03-03 22:17:22.6873 | INFO | Executing ObjectResult, writing value of type 'ModelLayer.DTO.ResponseModel`1[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2025-03-03 22:17:22.6979 | INFO | Executed action HelloApp.Controllers.HelloAppController.Login (HelloApp) in 4821.6624ms 
+2025-03-03 22:17:22.6979 | INFO | Executed endpoint 'HelloApp.Controllers.HelloAppController.Login (HelloApp)' 
+2025-03-03 22:17:22.6979 | INFO | Request finished HTTP/1.1 POST https://localhost:7132/HelloApp application/json 84 - 200 - application/json;+charset=utf-8 4873.3981ms 
